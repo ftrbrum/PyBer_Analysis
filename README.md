@@ -19,7 +19,7 @@ Images: [analysis](analysis)
 ## Results:
 
 ### City Type Summary
-![pyBer_summary.png](analysis/pyBer_summary.png)
+![pyber_summary.png](analysis/pyber_summary.png)
 
 ### Weekly Fares Summary
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
