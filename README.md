@@ -38,9 +38,9 @@ Suburban cities fall in the middle of each category measured.
 
 ## Recommendations:
 
-1. 
-2. 
-3. 
+1. For the Urban market, to keep drivers happy, an increase in the starting fare would help.  They are by far the lowest earners per ride.     
+2. The Suburban market has the most growth appeal.  Targeting users that need a car to get to a train, bus or subway to commute into an Urban area for work could spike usership.  I could see an increase in the winter months from people not wanting to shovel the driveway, clean off their vehicles, and leave for work in a one of our driver’s warm cars.
+3. To capitalize on the Rural markets, I would look to increase the advertising campaign and add more drivers to those areas.  A bigger presence should attract more users.  Maybe a flat fee to entice a steady userbase.
 
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
